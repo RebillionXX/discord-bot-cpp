@@ -1,0 +1,9 @@
+[submodule "vendor/DPP"]
+	path = vendor/DPP
+	url = https://github.com/brainboxdotcc/DPP
+[submodule "vendor/fmtdor/DPP"]
+	path = vendor/fmtdor/DPP
+	url = https://github.com/fmtlib/fmt
+[submodule "vendor/fmt"]
+	path = vendor/fmt
+	url = https://github.com/fmtlib/fmt
